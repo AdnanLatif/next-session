@@ -8,3 +8,10 @@ A movie app that allows users to view and search for movies, and see details of 
 - [TailwindCSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TheMovieDB API](https://www.themoviedb.org/)
+
+## Coverred Topics
+
+- Basic Routing.
+- Nested Routing.
+- Dynamic Routing.
+- No ORM used.
