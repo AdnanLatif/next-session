@@ -1,6 +1,6 @@
 # Movigenics
 
-A movie app that allows users to view and search for movies, and see details of each movie. This app built using Next.js 13, TailwindCSS, TypeScript, and TheMovieDB API.
+A movie app that allows users to view and search for movies, and see details of each movie. This app built using Next.js 13, TailwindCSS, TypeScript, and TheMovieDB API. Used Next.js experimental features of appDir.
 
 ## Built With
 
